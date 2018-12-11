@@ -1,0 +1,2 @@
+Mean absolute error at t_end for conventional 0.0032572099906162232
+Mean absolute error at t_end for optimized 0.005163504580995524
